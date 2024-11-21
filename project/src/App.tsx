@@ -45,7 +45,7 @@ function App() {
               <h3 className="text-lg font-bold mb-4">Quick Links</h3>
               <ul className="space-y-2">
                 <li>
-                  <a href="https://dexscreener.com/solana/6257uclpbzqccm8x4mptn19wqbcndwfvquomlejf2e1b" 
+                  <a href="https://dexscreener.com/solana/mntsCRTRJLYc7fTHzaS2WuZEsLj3n5jSYXELfbmFu1e" 
                      className="text-red-200 hover:text-white transition-colors flex items-center gap-2">
                     <ExternalLink className="w-4 h-4" /> DexScreener
                   </a>
