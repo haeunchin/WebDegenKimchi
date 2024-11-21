@@ -21,7 +21,7 @@ function App() {
                className="hover:text-red-600 transition-colors">
               <Twitter className="w-5 h-5" />
             </a>
-            <a href="https://github.com/haeunchin/Eliza" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/haeunchin/ElizaDegenKimchi" target="_blank" rel="noopener noreferrer"
                className="hover:text-red-600 transition-colors">
               <Github className="w-5 h-5" />
             </a>
