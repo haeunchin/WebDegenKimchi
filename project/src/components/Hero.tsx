@@ -16,7 +16,7 @@ export default function Hero() {
           </div>
         </div>
         
-        <h1 className="text-5xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-red-600 to-red-800">
+        <h1 className="text-5xl font-bold mb-8 bg-clip-text text-transparent bg-gradient-to-r from-red-600 to-red-800">
           DegenKimChi
         </h1>
         <p className="text-xl text-gray-600 mb-8 max-w-2xl">

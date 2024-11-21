@@ -40,7 +40,7 @@ export default function BuySection() {
         <div className="mt-12">
           <h3 className="text-xl font-semibold mb-4">Track Price</h3>
           <a 
-            href="https://dexscreener.com/solana/6257uclpbzqccm8x4mptn19wqbcndwfvquomlejf2e1b" 
+            href="https://dexscreener.com/solana/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-red-600 hover:text-red-700"
