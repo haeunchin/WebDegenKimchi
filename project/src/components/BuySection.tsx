@@ -27,7 +27,7 @@ export default function BuySection() {
           
           <div className="mt-8">
             <a 
-              href="https://raydium.io" 
+              href="https://raydium.io/swap/?inputMint=sol&outputMint=mntsCRTRJLYc7fTHzaS2WuZEsLj3n5jSYXELfbmFu1e" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3 bg-red-600 text-white rounded-full font-semibold hover:bg-red-700 transition-colors"
@@ -40,7 +40,7 @@ export default function BuySection() {
         <div className="mt-12">
           <h3 className="text-xl font-semibold mb-4">Track Price</h3>
           <a 
-            href="https://dexscreener.com/solana/" 
+            href="https://dexscreener.com/solana/mntsCRTRJLYc7fTHzaS2WuZEsLj3n5jSYXELfbmFu1e" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-red-600 hover:text-red-700"
